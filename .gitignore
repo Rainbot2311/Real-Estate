@@ -1,0 +1,5 @@
+.antideploy_token.json
+bundle.tar.gz
+node_modules/
+.DS_Store
+Thumbs.db
